@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/05/24 10:37:57.514,=C:\Users\kikatokiro\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2020/05/24 10:38:58.377,C:\Users\kikatokiro\Desktop\Test Image Delphi\Unit1.dfm=C:\Users\kikatokiro\Documents\Embarcadero\Studio\Projets\Unit1.dfm</Transaction>
+    <Transaction>2020/05/24 10:38:58.377,C:\Users\kikatokiro\Desktop\Test Image Delphi\Unit1.pas=C:\Users\kikatokiro\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2020/05/24 10:38:59.098,C:\Users\kikatokiro\Desktop\Test Image Delphi\Project1.dproj=C:\Users\kikatokiro\Documents\Embarcadero\Studio\Projets\Project1.dproj</Transaction>
+    <Transaction>2020/05/24 10:39:36.617,=C:\Users\kikatokiro\Desktop\Test Image Delphi\Unit2.pas</Transaction>
+    <Transaction>2020/05/24 10:39:50.307,C:\Users\kikatokiro\Desktop\Test Image Delphi\dateModule.pas=C:\Users\kikatokiro\Desktop\Test Image Delphi\Unit2.pas</Transaction>
+    <Transaction>2020/05/24 10:39:50.307,C:\Users\kikatokiro\Desktop\Test Image Delphi\dateModule.dfm=C:\Users\kikatokiro\Desktop\Test Image Delphi\Unit2.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
